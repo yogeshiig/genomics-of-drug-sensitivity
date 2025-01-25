@@ -47,7 +47,7 @@ The project harmonizes data from multiple sources:
 ## How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/yogeshiig/genomics-of-drug-sensitivity.git
    ```
 3. Open the `EDA(GDSC).ipynb` file in Jupyter Notebook for data exploration.
 4. Open the Power BI file (`Genomic of Drug Sensitivity in Cancer.pbix`) to view interactive visualizations.
